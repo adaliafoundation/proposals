@@ -1,4 +1,4 @@
-# Adalia Improvement Proposal TBD (number will be added when votes are finalized)
+# Adalia Improvement Proposal #1
 
 ## Introduction 
 
